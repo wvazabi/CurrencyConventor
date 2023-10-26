@@ -1,4 +1,4 @@
 # CurrencyConventor
 
-![currency](assests/ss1.png)
+![currency](ss1.png)
 
